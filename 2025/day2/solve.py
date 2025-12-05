@@ -1,4 +1,4 @@
-with open("input.txt") as f:
+with open("2025\day2\input.txt") as f:
     lines = f.read()
     print(lines)
     products = lines.split(',')

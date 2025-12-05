@@ -1,5 +1,5 @@
 import math
-with open("input.txt") as f:
+with open("2025\day1\input.txt") as f:
     lines = f.readlines()
     turns = []
     for line in lines:
@@ -18,7 +18,6 @@ def part1():
             res += 1
     print(arrow)
     print(res)
-import math
 
 def part2():
     pos = 50

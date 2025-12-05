@@ -1,4 +1,4 @@
-with open("input.txt") as f:
+with open("2025\day3\input.txt") as f:
     battery_banks = f.readlines()
 
 def part1(battery_banks: list[str]):

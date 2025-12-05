@@ -1,4 +1,4 @@
-with open("input.txt") as f:
+with open("2025\day5\input.txt") as f:
     # input is range of numbers a new line seperator and then integers on new lines
     lines = f.readlines()
     ranges = []

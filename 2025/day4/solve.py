@@ -1,4 +1,4 @@
-with open("input.txt") as f:
+with open("2025\day4\input.txt") as f:
     grid = [[c for c in line.strip()] for line in f.readlines()]
 
 def part1():
